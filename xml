@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HEADER>
+  <UserID>A1234567</UserID>
+  <UserName>王曉明</UserName>
+  <UserDesc>handsome</UserDesc>
+  <Family>
+   <Member>阿爸</Member>
+   <Member>阿母</Member>
+   <Member>阿姐</Member>
+  </Family>
+ </HEADER>
