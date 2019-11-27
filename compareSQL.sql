@@ -1,6 +1,6 @@
 select * from sys.all_tab_cols where table_name = 'table_name';
 --抓取 owner
-
+SELECT owner, table_name FROM all_tables where owner IN('owner','owner1')
 
 
 select nvl(s1.table_name, s2.table_name) as table_name,
