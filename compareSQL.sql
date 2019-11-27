@@ -22,3 +22,7 @@ where s1.column_name is null
       or s2.column_name is null
 order by table_name,
          column_name;
+
+
+
+--https://stackoverflow.com/questions/40130814/compare-data-types-of-two-table-columns-in-oracle
